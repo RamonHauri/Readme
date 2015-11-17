@@ -19,5 +19,5 @@
 | Aufgabe | Aufgabe      |    Aufgabe |
 
 **Schau was ich schon alles gelernt habe**.
-__Ich kann dies__.
+_Ich kann dies_.
 **_Und das_**.
