@@ -5,11 +5,11 @@
 
 1. Ich
 2. Weiss
-3. Nicht,
-..* Was
-4. Ich
-5. Schreiben
-6. Soll
+3. Nicht
+4. Was
+5. Ich
+6. Schreiben
+7. Soll
 
 
 | Hallo 1        | Hallo 2           | Hallo 3  |
@@ -18,6 +18,6 @@
 | Aufgabe      | Aufgabe      |   Aufgabe |
 | Aufgabe | Aufgabe      |    Aufgabe |
 
-**Schau was ich schon alles gelernt habe**
-__Ich kann dies__
-**_Und das_**
+**Schau was ich schon alles gelernt habe**.
+__Ich kann dies__.
+**_Und das_**.
